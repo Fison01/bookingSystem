@@ -1,2 +1,2 @@
 # bookingSystem
-Booking
+Hotel management system
